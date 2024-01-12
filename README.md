@@ -1,4 +1,4 @@
-# Bank User-Management_Project
+# Bank User-Management Project
 This simple Java project implements a basic Bank User Management System. It utilizes custom exception classes to handle runtime input errors, such as invalid passwords, negative balances, and user not found scenarios.
 
 ## Overview
